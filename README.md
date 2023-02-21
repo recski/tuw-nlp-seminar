@@ -8,6 +8,7 @@ Every second Tuesday, 13.00 - 16.00, Room [HD0215](https://tuw-maps.tuwien.ac.at
 ## TUW course
 
 **194.135 Research topics in natural language processing**
+
 [TISS
 page](https://tiss.tuwien.ac.at/course/educationDetails.xhtml?dswid=5529&dsrid=47&courseNr=194135&semester=2023S) (2023SS)
 
