@@ -30,9 +30,9 @@ Date|Topic| |
 5/2/2023  | Understanding and semantics | |
 &nbsp;    | Semantic parsing and representation | |
 5/16/2023 | Semantics-based information extraction | |
-&nbsp     | Graph-based Open Information Extraction | |
+&nbsp;     | Graph-based Open Information Extraction | |
 5/30/2023 | *Pentecost break* | |
 6/13/2023 | tbd | |
-&nbsp     | tbd | |
+&nbsp;     | tbd | |
 6/27/2022 | tbd | |
-&nbsp     | tbd | |
+&nbsp;     | tbd | |
