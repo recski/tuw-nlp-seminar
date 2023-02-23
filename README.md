@@ -8,6 +8,7 @@ Every second Tuesday, 13.00 - 16.00, Room [HD0215](https://tuw-maps.tuwien.ac.at
 ## TUW course
 
 **194.135 Research topics in natural language processing**
+
 [TISS
 page](https://tiss.tuwien.ac.at/course/educationDetails.xhtml?dswid=5529&dsrid=47&courseNr=194135&semester=2023S) (2023SS)
 
@@ -24,7 +25,7 @@ Date|Topic| Required reading | Additional reading |
 &nbsp;    | Overview of NLP tasks, task types, methods | | |
 3/21/2023 | Word embeddings | [Mikolov et al. 2013](https://arxiv.org/pdf/1301.3781.pdf)|[Collobert et al. 2011](https://www.jmlr.org/papers/volume12/collobert11a/collobert11a.pdf), [Pennington et al. 2014](https://nlp.stanford.edu/pubs/glove.pdf)
 &nbsp;    | Transformer-based language models | [Vaswani et al. 2017](https://arxiv.org/pdf/1706.03762.pdf), [Devlin et al. 2019](https://arxiv.org/pdf/1810.04805.pdf)| [Rogers et al. 2020](https://aclanthology.org/2020.tacl-1.54/)
-4/4/2023  | *Easter break* | |
+4/4/2023  | *Easter break* | | |
 4/18/2023 | Problems with distributional models| [Bender et al. 2021](https://dl.acm.org/doi/10.1145/3442188.3445922)| |
 &nbsp;    | Explainability | [Ribeiro et al. 2016](https://aclanthology.org/N16-3020.pdf), [Jain & Wallace 2019](https://aclanthology.org/N19-1357.pdf), [DeYoung et al. 2020](https://aclanthology.org/2020.acl-main.408)|[Jacovi & Goldberg 2020](https://aclanthology.org/2020.acl-main.386.pdf)
 5/2/2023  | Understanding and semantics | [Bender & Koller 2020](https://aclanthology.org/2020.acl-main.463/), [Emerson 2020](https://aclanthology.org/2020.acl-main.663.pdf)| |
