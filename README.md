@@ -35,5 +35,5 @@ Date|Topic| Required reading | Additional reading | Presenter
 5/30/2023 | *Pentecost break* | | |
 6/13/2023 | tbd  | | | Peter Walchhofer |
 &nbsp;     | tbd | | | Lukas Hofstetter |
-6/27/2022 | tbd | | | |
+6/27/2022 | tbd | | | Tilman Kerl |
 &nbsp;     | tbd | | | |
