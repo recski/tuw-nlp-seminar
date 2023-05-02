@@ -31,9 +31,9 @@ Date|Topic| Required reading | Additional reading | Presenter
 5/2/2023  | Understanding and semantics | [Bender & Koller 2020](https://aclanthology.org/2020.acl-main.463/), [Emerson 2020](https://aclanthology.org/2020.acl-main.663.pdf)| | Lukas Hofstetter |
 &nbsp;    | Semantic parsing and representation | [Banarescu et al. 2013](https://aclanthology.org/W13-2322.pdf), [Poelman et al. 2022](https://aclanthology.org/2022.coling-1.367.pdf)| | Mina Jafari |
 5/16/2023 | Semantics-based information extraction | [Kovács et al. 2022b](https://dl.acm.org/doi/abs/10.1145/3511808.3557196)| [Kovács et al. 2022a](https://www.cambridge.org/core/journals/natural-language-engineering/article/explainable-lexical-entailment-with-semantic-graphs/96A9C7F5B30D7DD5A955B54D9AF8ADF4)| |
-&nbsp;     | Graph-based Open Information Extraction | [Léchelle et al. 2019](https://aclanthology.org/W19-4002.pdf)| [Gashteovski et al. 2017](https://aclanthology.org/D17-1278/)| |
+&nbsp;     | Graph-based Open Information Extraction | [Léchelle et al. 2019](https://aclanthology.org/W19-4002.pdf)| [Gashteovski et al. 2017](https://aclanthology.org/D17-1278/)| Fabian Gabelberger |
 5/30/2023 | *Pentecost break* | | |
-6/13/2023 | tbd | | | |
-&nbsp;     | tbd | | | |
+6/13/2023 | tbd  | | | Peter Walchhofer |
+&nbsp;     | tbd | | | Lukas Hofstetter |
 6/27/2022 | tbd | | | |
 &nbsp;     | tbd | | | |
