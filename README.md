@@ -33,7 +33,7 @@ Date|Topic| Required reading | Additional reading | Presenter
 5/16/2023 | Semantics-based information extraction | [Kovács et al. 2022b](https://dl.acm.org/doi/abs/10.1145/3511808.3557196)| [Kovács et al. 2022a](https://www.cambridge.org/core/journals/natural-language-engineering/article/explainable-lexical-entailment-with-semantic-graphs/96A9C7F5B30D7DD5A955B54D9AF8ADF4)| |
 &nbsp;     | Graph-based Open Information Extraction | [Léchelle et al. 2019](https://aclanthology.org/W19-4002.pdf)| [Gashteovski et al. 2017](https://aclanthology.org/D17-1278/)| Fabian Gabelberger |
 5/30/2023 | *Pentecost break* | | |
-6/13/2023 | tbd  | | | Peter Walchhofer |
-&nbsp;     | tbd | | | Lukas Hofstetter |
-6/27/2022 | tbd | | | Tilman Kerl |
-&nbsp;     | tbd | | | |
+6/13/2023 | Semantic textual similarity of English legal text | | | Peter Walchhofer |
+&nbsp;     | Using AutoGPT to create a virtual assistant | | | Lukas Hofstetter |
+6/27/2022 | Detecting bias in Transformer-based models | | | Tilman Kerl |
+&nbsp;     | End-of-semester update round | | | |
