@@ -9,8 +9,7 @@ Every Tuesday, 14.15 - 15.45, Room [HD0215](https://tuw-maps.tuwien.ac.at/?q=HD0
 
 **194.135 Research topics in natural language processing**
 
-[TISS
-page](https://tiss.tuwien.ac.at/course/educationDetails.xhtml?dswid=5529&dsrid=47&courseNr=194135&semester=2023S) (2023SS)
+TISS page: [2023WS](https://tiss.tuwien.ac.at/course/educationDetails.xhtml?courseNr=194135&semester=2023W&dswid=3116&dsrid=484), [2023SS](https://tiss.tuwien.ac.at/course/educationDetails.xhtml?dswid=5529&dsrid=47&courseNr=194135&semester=2023S)
 
 ## Instructor
 
