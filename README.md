@@ -23,8 +23,7 @@ Date|Topic| Required reading | Additional reading | Presenter
 ----|-----|----------------- | ----------------- | --------- |
 10/3/2023  | Introduction, scheduling | | | |
 10/10/2023  | No class | | | |
-10/17/2023 | Word embeddings, temporal embeddings | [SLP3 Ch 6: Vector semantics and
-embeddings](https://web.stanford.edu/~jurafsky/slp3/6.pdf) | [Mikolov et al. 2013](https://arxiv.org/pdf/1301.3781.pdf), [Collobert et al. 2011](https://www.jmlr.org/papers/volume12/collobert11a/collobert11a.pdf) | Paul Schmitt |
+10/17/2023 | Word embeddings, temporal embeddings | [SLP3 Ch 6: Vector semantics and embeddings](https://web.stanford.edu/~jurafsky/slp3/6.pdf) | [Mikolov et al. 2013](https://arxiv.org/pdf/1301.3781.pdf), [Collobert et al. 2011](https://www.jmlr.org/papers/volume12/collobert11a/collobert11a.pdf) | Paul Schmitt |
 10/24/2023 | Transformers and BERT | [Vaswani et al. 2017](https://arxiv.org/pdf/1706.03762.pdf), [Devlin et al. 2019](https://arxiv.org/pdf/1810.04805.pdf) | [Rogers et al. 2020](https://aclanthology.org/2020.tacl-1.54/) | Valentin Peter, Carlos Vargas |
 10/31/2023 | Problems with distributional models| [Bender et al. 2021](https://dl.acm.org/doi/10.1145/3442188.3445922), [Bender & Koller 2020](https://aclanthology.org/2020.acl-main.463/) | | Luiza Corpaci |
 11/7/2023  | No class | | | |
