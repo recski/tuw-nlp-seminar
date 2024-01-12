@@ -31,10 +31,10 @@ Date|Topic| Required reading | Additional reading | Presenter
 11/28/2023 | Large Language Models I | [Touvron et al. 2023](https://arxiv.org/abs/2307.09288) | | Varvara Arzt, Mahdi Azarbeik |
 12/5/2023 | Large Language Models II | [Borgeaud et al. 2022](https://proceedings.mlr.press/v162/borgeaud22a.html) | | Ilya Lasy |
 12/12/2023 | Relation extraction | [Wadhwa et al. 2023](https://aclanthology.org/2023.acl-long.868.pdf) | | Varvara Arzt |
-12/19/2023 | Information extraction | [Fei et al. 2022](https://papers.nips.cc/paper_files/paper/2022/hash/63943ee9fe347f3d95892cf87d9a42e6-Abstract-Conference.html)| | Tilman Kerl |
+12/19/2023 | Cancelled due to illness | | | |
 1/9/2024 | Ethical Issues in NLP | [Bender & Friedman 2018](https://aclanthology.org/Q18-1041.pdf) | | Silvia Bonomi |
-1/16/2024 | Discourse Representation Parsing | tbd | | Christian Obereder |
-1/23/2024 | tbd | tbd | | Valentin Peter |
+1/16/2024 | Discourse Representation Parsing | [van Noord et al. 2018](https://aclanthology.org/Q18-1043.pdf) | [van Noord et al. 2020](https://aclanthology.org/2020.emnlp-main.371.pdf)| Christian Obereder |
+1/23/2024 | Information extraction | [Fei et al. 2022](https://papers.nips.cc/paper_files/paper/2022/hash/63943ee9fe347f3d95892cf87d9a42e6-Abstract-Conference.html)| | Tilman Kerl |
 
 
 ### Past semesters
