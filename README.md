@@ -20,23 +20,23 @@ TISS page: [2023WS](https://tiss.tuwien.ac.at/course/educationDetails.xhtml?cour
 
 Date|Topic| Required reading | Additional reading | Presenter | Slides
 ----|-----|----------------- | ----------------- | --------- | ------
-10/3/2023  | Introduction, scheduling | | | |
-10/10/2023  | No class | | | |
-10/17/2023 | Word embeddings, temporal embeddings | [SLP3 Ch 6: Vector semantics and embeddings](https://web.stanford.edu/~jurafsky/slp3/6.pdf) | [Mikolov et al. 2013](https://arxiv.org/pdf/1301.3781.pdf), [Collobert et al. 2011](https://www.jmlr.org/papers/volume12/collobert11a/collobert11a.pdf) | Paul Schmitt | [Slides](2023WS/20231017)
-10/24/2023 | Transformers and BERT | [Vaswani et al. 2017](https://arxiv.org/pdf/1706.03762.pdf), [Devlin et al. 2019](https://arxiv.org/pdf/1810.04805.pdf) | [Rogers et al. 2020](https://aclanthology.org/2020.tacl-1.54/) | Valentin Peter, Carlos Vargas | [Slides](2023WS/20231024)
+10/3/2023  | Introduction, scheduling | | | | |
+10/10/2023  | No class | | | | |
+10/17/2023 | Word embeddings, temporal embeddings | [SLP3 Ch 6: Vector semantics and embeddings](https://web.stanford.edu/~jurafsky/slp3/6.pdf) | [Mikolov et al. 2013](https://arxiv.org/pdf/1301.3781.pdf), [Collobert et al. 2011](https://www.jmlr.org/papers/volume12/collobert11a/collobert11a.pdf) | Paul Schmitt | [Slides](2023WS/20231017) |
+10/24/2023 | Transformers and BERT | [Vaswani et al. 2017](https://arxiv.org/pdf/1706.03762.pdf), [Devlin et al. 2019](https://arxiv.org/pdf/1810.04805.pdf) | [Rogers et al. 2020](https://aclanthology.org/2020.tacl-1.54/) | Valentin Peter, Carlos Vargas | [Slides](2023WS/20231024) |
 
-10/31/2023 | Problems with distributional models| [Bender et al. 2021](https://dl.acm.org/doi/10.1145/3442188.3445922), [Bender & Koller 2020](https://aclanthology.org/2020.acl-main.463/) | | Luiza Corpaci | [Slides](2023WS/20231031)
+10/31/2023 | Problems with distributional models| [Bender et al. 2021](https://dl.acm.org/doi/10.1145/3442188.3445922), [Bender & Koller 2020](https://aclanthology.org/2020.acl-main.463/) | | Luiza Corpaci | [Slides](2023WS/20231031) |
 
-11/7/2023  | No class | | | |
-11/14/2023  | No class | | | |
-11/21/2023 | Model evaluation with contrast sets | [Gardner et al. 2020](https://aclanthology.org/2020.findings-emnlp.117.pdf) | | Varvara Arzt |
-11/28/2023 | Large Language Models I | [Touvron et al. 2023](https://arxiv.org/abs/2307.09288) | | Varvara Arzt, Mahdi Azarbeik |
+11/7/2023  | No class | | | | |
+11/14/2023  | No class | | | | |
+11/21/2023 | Model evaluation with contrast sets | [Gardner et al. 2020](https://aclanthology.org/2020.findings-emnlp.117.pdf) | | Varvara Arzt | |
+11/28/2023 | Large Language Models I | [Touvron et al. 2023](https://arxiv.org/abs/2307.09288) | | Varvara Arzt, Mahdi Azarbeik | |
 12/5/2023 | Large Language Models II | [Borgeaud et al. 2022](https://proceedings.mlr.press/v162/borgeaud22a.html) | | Ilya Lasy | [Slides](2023WS/20231205)
 
-12/12/2023 | Relation extraction | [Wadhwa et al. 2023](https://aclanthology.org/2023.acl-long.868.pdf) | | Varvara Arzt |
+12/12/2023 | Relation extraction | [Wadhwa et al. 2023](https://aclanthology.org/2023.acl-long.868.pdf) | | Varvara Arzt | | 
 12/19/2023 | Cancelled due to illness | | | |
-1/9/2024 | Ethical Issues in NLP | [Bender & Friedman 2018](https://aclanthology.org/Q18-1041.pdf) | | Silvia Bonomi | [Slides](2023WS/20240109)
-1/16/2024 | Discourse Representation Parsing | [van Noord et al. 2018](https://aclanthology.org/Q18-1043.pdf) | [van Noord et al. 2020](https://aclanthology.org/2020.emnlp-main.371.pdf)| Christian Obereder | [Slides](2023WS/20240116)
+1/9/2024 | Ethical Issues in NLP | [Bender & Friedman 2018](https://aclanthology.org/Q18-1041.pdf) | | Silvia Bonomi | [Slides](2023WS/20240109) |
+1/16/2024 | Discourse Representation Parsing | [van Noord et al. 2018](https://aclanthology.org/Q18-1043.pdf) | [van Noord et al. 2020](https://aclanthology.org/2020.emnlp-main.371.pdf)| Christian Obereder | [Slides](2023WS/20240116) |
 1/23/2024 | Information extraction | [Fei et al. 2022](https://papers.nips.cc/paper_files/paper/2022/hash/63943ee9fe347f3d95892cf87d9a42e6-Abstract-Conference.html)| | Tilman Kerl | |
 
 ### Past semesters
