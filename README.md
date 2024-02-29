@@ -9,8 +9,7 @@ Every Tuesday, 14.15 - 15.45, Room [HD0215](https://tuw-maps.tuwien.ac.at/?q=HD0
 
 **194.135 Research topics in natural language processing**
 
-[TISS
-page](https://tiss.tuwien.ac.at/course/educationDetails.xhtml?dswid=5529&dsrid=47&courseNr=194135&semester=2023S) (2023SS)
+TISS page: [2023WS](https://tiss.tuwien.ac.at/course/educationDetails.xhtml?courseNr=194135&semester=2023W&dswid=3116&dsrid=484), [2023SS](https://tiss.tuwien.ac.at/course/educationDetails.xhtml?dswid=5529&dsrid=47&courseNr=194135&semester=2023S)
 
 ## Instructor
 
@@ -35,13 +34,10 @@ Date|Topic| Required reading | Additional reading | Presenter | Slides
 12/5/2023 | Large Language Models II | [Borgeaud et al. 2022](https://proceedings.mlr.press/v162/borgeaud22a.html) | | Ilya Lasy |[Slides](2023WS/20231017)
 
 12/12/2023 | Relation extraction | [Wadhwa et al. 2023](https://aclanthology.org/2023.acl-long.868.pdf) | | Varvara Arzt |
-12/19/2023 | Information extraction | [Fei et al. 2022](https://papers.nips.cc/paper_files/paper/2022/hash/63943ee9fe347f3d95892cf87d9a42e6-Abstract-Conference.html)| | Tilman Kerl |
-1/9/2024 | Ethical Issues in NLP | [Bender & Friedman 2018](https://aclanthology.org/Q18-1041.pdf) | | Silvia Bonomi |[Slides](2023WS/20231017)
-
-1/16/2024 | Discourse Representation Parsing | tbd | | Christian Obereder |[Slides](2023WS/20231017)
-
-1/23/2024 | tbd | tbd | | Valentin Peter |
-
+12/19/2023 | Cancelled due to illness | | | |
+1/9/2024 | Ethical Issues in NLP | [Bender & Friedman 2018](https://aclanthology.org/Q18-1041.pdf) | | Silvia Bonomi | [Slides](2023WS/20231017)
+1/16/2024 | Discourse Representation Parsing | [van Noord et al. 2018](https://aclanthology.org/Q18-1043.pdf) | [van Noord et al. 2020](https://aclanthology.org/2020.emnlp-main.371.pdf)| Christian Obereder | [Slides](2023WS/20231017)
+1/23/2024 | Information extraction | [Fei et al. 2022](https://papers.nips.cc/paper_files/paper/2022/hash/63943ee9fe347f3d95892cf87d9a42e6-Abstract-Conference.html)| | Tilman Kerl | |
 
 ### Past semesters
 
