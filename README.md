@@ -9,7 +9,7 @@ Every Tuesday, 14.15 - 15.45, Room [HD0215](https://tuw-maps.tuwien.ac.at/?q=HD0
 
 **194.135 Research topics in natural language processing**
 
-TISS page: [2023WS](https://tiss.tuwien.ac.at/course/educationDetails.xhtml?courseNr=194135&semester=2023W&dswid=3116&dsrid=484), [2023SS](https://tiss.tuwien.ac.at/course/educationDetails.xhtml?dswid=5529&dsrid=47&courseNr=194135&semester=2023S)
+TISS page: [2024SS](https://tiss.tuwien.ac.at/course/educationDetails.xhtml?courseNr=194135&semester=2024S&dswid=2811&dsrid=126), [2023WS](https://tiss.tuwien.ac.at/course/educationDetails.xhtml?courseNr=194135&semester=2023W&dswid=3116&dsrid=484), [2023SS](https://tiss.tuwien.ac.at/course/educationDetails.xhtml?dswid=5529&dsrid=47&courseNr=194135&semester=2023S)
 
 ## Instructor
 
@@ -17,6 +17,30 @@ TISS page: [2023WS](https://tiss.tuwien.ac.at/course/educationDetails.xhtml?cour
 
 
 ### Schedule and reading material
+
+Date|Topic| Required reading | Additional reading | Presenter | Slides
+----|-----|----------------- | ----------------- | --------- | ------
+3/5/2024  | Introduction, scheduling | | | | |
+3/12/2024  | | | | | |
+3/19/2024  | | | | | |
+3/26/2024  | No class (spring break) | | | | |
+4/2/2024  | No class (spring break) | | | | |
+4/9/2024  | | | | | |
+4/16/2024  | | | | | |
+4/23/2024  | | | | | |
+4/30/2024  | | | | | |
+5/7/2024  | | | | | |
+5/14/2024  | | | | | |
+5/21/2024  | No class (Pentecost break)| | | | |
+5/28/2024  | | | | | |
+6/4/2024  | | | | | |
+6/11/2024  | | | | | |
+6/18/2024  | | | | | |
+6/25/2024  | | | | | |
+
+### Past semesters
+
+#### 2023WS
 
 Date|Topic| Required reading | Additional reading | Presenter | Slides
 ----|-----|----------------- | ----------------- | --------- | ------
@@ -35,8 +59,6 @@ Date|Topic| Required reading | Additional reading | Presenter | Slides
 1/9/2024 | Ethical Issues in NLP | [Bender & Friedman 2018](https://aclanthology.org/Q18-1041.pdf) | | Silvia Bonomi | [Slides](2023WS/20240109) |
 1/16/2024 | Discourse Representation Parsing | [van Noord et al. 2018](https://aclanthology.org/Q18-1043.pdf) | [van Noord et al. 2020](https://aclanthology.org/2020.emnlp-main.371.pdf)| Christian Obereder | [Slides](2023WS/20240116) |
 1/23/2024 | Information extraction | [Fei et al. 2022](https://papers.nips.cc/paper_files/paper/2022/hash/63943ee9fe347f3d95892cf87d9a42e6-Abstract-Conference.html)| | Tilman Kerl | |
-
-### Past semesters
 
 #### 2023SS
 
