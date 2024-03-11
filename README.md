@@ -21,7 +21,7 @@ TISS page: [2024SS](https://tiss.tuwien.ac.at/course/educationDetails.xhtml?cour
 Date|Topic| Required reading | Additional reading | Presenter | Slides
 ----|-----|----------------- | ----------------- | --------- | ------
 3/5/2024  | Introduction, scheduling | | | | |
-3/12/2024  | | | | | |
+3/12/2024  | Mixture Of Experts LLMs | [Zoph et al. 2022](https://arxiv.org/pdf/2202.08906.pdf), [Du et al. 2022](https://arxiv.org/pdf/2112.06905.pdf) | [Jiang et al. 2024](https://arxiv.org/pdf/2401.04088.pdf), [Xue et al. 2024](https://arxiv.org/pdf/2402.01739.pdf) | Ilya Lasy | |
 3/19/2024  | | | | | |
 3/26/2024  | No class (spring break) | | | | |
 4/2/2024  | No class (spring break) | | | | |
