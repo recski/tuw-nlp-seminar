@@ -26,8 +26,7 @@ Date|Topic| Required reading | Additional reading | Presenter | Slides
 3/26/2024  | No class (spring break) | | | | |
 4/2/2024  | No class (spring break) | | | | |
 4/9/2024  | Biographical Relation Extraction | own research | | Varvara Arzt | |
-4/16/2024  | LLM Quantization | [Lin et al. 2023](https://arxiv.org/abs/2306.00978), [Ma et al.
-2024](https://arxiv.org/abs/2402.17764) | | | |
+4/16/2024  | LLM Quantization | [Lin et al. 2023](https://arxiv.org/abs/2306.00978), [Ma et al. 2024](https://arxiv.org/abs/2402.17764) | | | |
 4/23/2024  | Information Extraction at Kontron Transportation | own research | | Mehdin Masinovic | |
 4/30/2024  | tbd | tbd | Iva Pezo | | |
 5/7/2024  | Relational Knowledge in Language Models | [Hernandez et al. 2024](https://openreview.net/forum?id=w7LU2s14kE) | | Varvara Arzt | |
