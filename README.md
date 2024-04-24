@@ -28,9 +28,9 @@ Date|Topic| Required reading | Additional reading | Presenter | Slides
 4/9/2024  | Biographical Relation Extraction | own research | | Varvara Arzt | |
 4/16/2024  | LLM Quantization | [Lin et al. 2023](https://arxiv.org/abs/2306.00978), [Ma et al. 2024](https://arxiv.org/abs/2402.17764) | | | |
 4/23/2024  | Information Extraction at Kontron Transportation | own research | | Mehdin Masinovic | |
-4/30/2024  | tbd | tbd |  | Iva Pezo | |
+4/30/2024  | The Importance of Context in the Evaluation of Word Embeddings | [Fodor et al. 2023](https://aclanthology.org/2023.iwcs-1.17.pdf) |  | Iva Pezo | |
 5/7/2024  | Relational Knowledge in Language Models | [Hernandez et al. 2024](https://openreview.net/forum?id=w7LU2s14kE) | | Varvara Arzt | |
-5/14/2024  | | [Davoodi et al. 2022](https://aclanthology.org/2022.acl-long.22/) |  | Kasra Zarinehbaf Asadi | |
+5/14/2024  | Extracting Winners and Losers from Legislative Texts | [Davoodi et al. 2022](https://aclanthology.org/2022.acl-long.22/) |  | Kasra Zarinehbaf Asadi | |
 5/21/2024  | No class (Pentecost break)| | | | |
 5/28/2024  | tbd | tbd |  | Mirta Medak | |
 6/4/2024  | Semantic shifts of words | [Yao et al. 2018](https://dl.acm.org/doi/10.1145/3159652.3159703)| [Kutuzov et al. 2018](https://aclanthology.org/C18-1117/) | Kristian Ristic | |
