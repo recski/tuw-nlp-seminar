@@ -32,7 +32,7 @@ Date|Topic| Required reading | Additional reading | Presenter | Slides
 5/7/2024  | Relational Knowledge in Language Models | [Hernandez et al. 2024](https://openreview.net/forum?id=w7LU2s14kE) | | Varvara Arzt | |
 5/14/2024  | Extracting Winners and Losers from Legislative Texts | [Davoodi et al. 2022](https://aclanthology.org/2022.acl-long.22/) |  | Kasra Zarinehbaf Asadi | |
 5/21/2024  | No class (Pentecost break)| | | | |
-5/28/2024  | tbd | tbd |  | Mirta Medak | |
+5/28/2024  | Explainable AI in NLP | [Danilevsky et al. 2020](https://aclanthology.org/2020.aacl-main.46/) |  | Mirta Medak | |
 6/4/2024  | Semantic shifts of words | [Yao et al. 2018](https://dl.acm.org/doi/10.1145/3159652.3159703)| [Kutuzov et al. 2018](https://aclanthology.org/C18-1117/) | Kristian Ristic | |
 6/11/2024  |Synthetic data for language models | [Liu et al. 2024](https://arxiv.org/abs/2404.07503) | |Aditi Chauhan | |
 6/18/2024  |SongComposer: A Large Language Model for Lyric and Melody Composition in Song Generation | [Ding et al. 2024](https://arxiv.org/abs/2402.17645)| |Fabian Ombui | |
