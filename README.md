@@ -34,9 +34,9 @@ Date|Topic| Required reading | Additional reading | Presenter | Slides
 5/21/2024  | No class (Pentecost break)| | | | |
 5/28/2024  | tbd | tbd |  | Mirta Medak | |
 6/4/2024  | Semantic shifts of words | [Yao et al. 2018](https://dl.acm.org/doi/10.1145/3159652.3159703)| [Kutuzov et al. 2018](https://aclanthology.org/C18-1117/) | Kristian Ristic | |
-6/11/2024  |tbd |tbd | |Aditi Chauhan | |
-6/18/2024  |tbd |tbd | |Fabian Ombui | |
-6/25/2024  |tbd |tbd | |Dario Bogenreiter | |
+6/11/2024  |Synthetic data for language models | [Liu et al. 2024](https://arxiv.org/abs/2404.07503) | |Aditi Chauhan | |
+6/18/2024  |SongComposer: A Large Language Model for Lyric and Melody Composition in Song Generation | [Ding et al. 2024](https://arxiv.org/abs/2402.17645)| |Fabian Ombui | |
+6/25/2024  |Sarcasm detection in NLP | [Kumar & Garg 2019](https://link.springer.com/article/10.1007/s12652-019-01419-7) | [Farha et al. 2022](https://aclanthology.org/2022.findings-emnlp.387/) |Dario Bogenreiter | |
 
 ### Past semesters
 
